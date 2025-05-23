@@ -1,5 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
+## NAME : SELVARANI S
+## REG NO : 212224040301
 
 # Aim : 
 
